@@ -1,0 +1,11 @@
+.git
+.venv
+.idea
+__pycache__
+*.pyc
+.env
+data/
+tests/
+.github/
+*.md
+temp_report.pdf
